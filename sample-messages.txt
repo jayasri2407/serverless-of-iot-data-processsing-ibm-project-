@@ -1,0 +1,26 @@
+// You can use this site to create new timestamps from a date string:
+// http://www.unixtimestampconverter.com/
+
+// See the sample-appliances.txt file for appliance warrant expiration times
+
+// Sent on March 20, 2017: 1489993200
+{
+    "appliance_serial": "aaaabbbbcccc",
+    "part_number": "ddddeeeeffff",
+    "reading": "10",
+    "timestamp": 1489993200
+}
+
+{
+    "appliance_serial": "llllmmmmnnnn",
+    "part_number": "ddddeeeeffff",
+    "reading": "12",
+    "timestamp": 1489993200
+}
+
+{
+    "appliance_serial": "xxxxyyyyzzzz",
+    "part_number": "ddddeeeeffff",
+    "reading": "15",
+    "timestamp": 1489993200
+}
